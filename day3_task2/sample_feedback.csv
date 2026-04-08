@@ -1,0 +1,6 @@
+id,customer_name,feedback_text,rating
+1,Alice,"The shoes are great, but the shipping was very delayed.",3
+2,Bob,"I absolutely love this laptop! Highly recommended.",5
+3,Charlie,,2
+4,Diana,"Terrible customer service. They didn't respond to my emails.",1
+5,Eve,"Good value for the price. Quality is okay.",4
