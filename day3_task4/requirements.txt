@@ -1,0 +1,10 @@
+streamlit
+langgraph
+langchain-chroma
+chromadb
+langsmith
+python-dotenv
+tiktoken
+langchain-groq
+langchain-huggingface
+sentence-transformers
