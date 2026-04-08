@@ -1,0 +1,29 @@
+Q: How many leave days do employees get?
+A: Employees are eligible for 20 days of paid leave annually.
+
+Q: What is the remote work policy?
+A: Employees can work remotely for up to 3 days a week, subject to manager approval.
+
+Q: What are the typical office timings?
+A: Core office timings are from 10:00 AM to 4:00 PM, but employees must complete 8 working hours per day.
+
+Q: What are the reimbursement rules for internet and phone?
+A: Employees can claim up to $50 per month for internet and phone expenses combined. Submit claims by the 25th of the month.
+
+Q: How do I contact IT support?
+A: You can reach IT support by sending an email to it-helpdesk@company.com or calling extension 4357 (HELP).
+
+Q: How many public holidays are observed?
+A: The company observes 10 public holidays each year. The list is published on the intranet in January.
+
+Q: When is the salary credited?
+A: Salary is credited on the last working day of each month.
+
+Q: What are the onboarding steps for new employees?
+A: New employees must attend the HR induction on day 1, complete IT setup on day 2, and meet their team lead by day 3.
+
+Q: What is the policy for sick leave?
+A: Employees are provided with 7 days of sick leave per year. A medical certificate is required for more than 2 consecutive sick days.
+
+Q: Is there an allowance for home office setups?
+A: New permanent employees are eligible for a one-time home office setup allowance of $250. Valid receipts must be provided.
