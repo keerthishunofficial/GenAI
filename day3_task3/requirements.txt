@@ -1,0 +1,6 @@
+fastapi[standard]
+langgraph
+pydantic
+typing_extensions
+streamlit
+requests
